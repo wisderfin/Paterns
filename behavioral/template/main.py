@@ -23,7 +23,7 @@ class Beverage(ABC):
 
 class Tea(Beverage):
     def brew(self):
-        print('Завриваем чай')
+        print('Завариваем чай')
 
     def add_ingredients(self):
         print('Добавляем лимон')
