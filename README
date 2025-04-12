@@ -15,6 +15,7 @@
 ## 🔧 Реализованные паттерны
 
 ### Порождающие (Creational)
+
 - Singleton
 - Factory Method
 - Abstract Factory
@@ -22,6 +23,7 @@
 - Prototype
 
 ### Структурные (Structural)
+
 - Adapter
 - Bridge
 - Composite
@@ -31,6 +33,7 @@
 - Proxy
 
 ### Поведенческие (Behavioral)
+
 - Chain of Responsibility(Cor)
 - Command
 - Iterator
